@@ -1,6 +1,6 @@
 # Carlos-Fonseca
 
-<img src=("https://www.google.com.br/url?sa=i&url=http%3A%2F%2Fblogunigranead.com%2Fgraduacao%2Fanalise-de-sistemas%2Fmercado-analise-de-sistemas%2F&psig=AOvVaw1Pvk88FD2uwGIFV1VoFUHi&ust=1633612269214000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjujI3utfMCFQAAAAAdAAAAABAD")>
+<img src="https://www.google.com.br/url?sa=i&url=http%3A%2F%2Fblogunigranead.com%2Fgraduacao%2Fanalise-de-sistemas%2Fmercado-analise-de-sistemas%2F&psig=AOvVaw1Pvk88FD2uwGIFV1VoFUHi&ust=1633612269214000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjujI3utfMCFQAAAAAdAAAAABAD">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
