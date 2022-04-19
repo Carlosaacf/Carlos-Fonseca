@@ -1,6 +1,6 @@
 # Carlos-Fonseca
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://photos.app.goo.gl/t6aGsk5LLL59rfnt9">
 
 ### Hi 👋
 I am study Analistics and Software development.
